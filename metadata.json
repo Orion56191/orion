@@ -1,0 +1,7 @@
+{
+  "name": "Orion",
+  "description": "具有氛围感主题的高端人生规划 AI 聊天界面。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
